@@ -4,7 +4,7 @@
 Devpost Link: https://devpost.com/software/phloem-kcfq59
 <br><br>
 <strong>My Contributions: I worked on the back-end, specifically using FastAPI with Python to pull data from the database. In addition, I connected Front-end to Back-end to enable login and job search features. I also created the jobs database table.</strong>
-<br><br><strong>#Project Description</strong><br><br>
+<br><br><strong>#Project Description</strong><br>
   With job loss exacerbated in an already vulnerable economy, we need to build a resilient, sustainable economy that will give millions of people motivating jobs that change the world. We’re a team of students who aim to help achieve that through building a platform to help match job seekers with sustainable non-exploitative companies.
 <br><br><strong>Inspiration</strong><br>
   Mallika’s passion about the economy and automation-induced job loss served as the foundation for our team to build upon. Brian’s work in Autism self-advocacy inspired the consideration for neurodiversity, and their Animal Rights work helped bring in the Green New Deal framework. Zaina’s belief that a company’s moral standpoints and the organizations they support must also be ethically good lead our team to make sure the database only included morally good businesses. Isha’s interest in minimizing COVID related impacts on our economy and finding better alternatives helped inform the user experience of the website.
