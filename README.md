@@ -2,9 +2,9 @@
 <strong>Plex Hacks 2020 Project-- 5th Place WINNER</strong><br>
 <br>
 Devpost Link: https://devpost.com/software/phloem-kcfq59
-<br>
+<br><br>
 <strong>My Contributions: </strong>I worked on the back-end, specifically using FastAPI with Python to pull data from the database. In addition, I connected Front-end to Back-end to enable login and job search features. I also created the jobs database table.</p>
-<br>
+
 <strong>
 	#Project Description</strong><br><br>
   With job loss exacerbated in an already vulnerable economy, we need to build a resilient, sustainable economy that will give millions of people motivating jobs that change the world. We’re a team of students who aim to help achieve that through building a platform to help match job seekers with sustainable non-exploitative companies.
